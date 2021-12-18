@@ -1,0 +1,21 @@
+{
+    "cards":[{
+    "img":"mobile 1.jfif",
+    "name":"oneplus",
+    "rate":"100000",
+    "offer":"50000",
+    "button":"view"
+},{
+    "img":"mobile 2.jfif",
+    "name":"mi",
+    "rate":"10000",
+    "offer":"5000",
+    "button":"view"    
+},{
+    "img":"mobile 3.jfif",
+    "name":"real me",
+    "rate":"1000",
+    "offer":"500",
+    "button":"view"
+}]
+}      
